@@ -1,3 +1,3 @@
 # Otto-Group-Product-Classification
 
-**Predictive Modeling**
+Built a predictive model which is capable to distinguish between main product categories.
