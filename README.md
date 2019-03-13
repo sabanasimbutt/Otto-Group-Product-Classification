@@ -15,5 +15,4 @@ This competition has a dataset with 93 features for more than 200,000 products. 
 * Calibration of predicted probabilities of model using `CalibratedClassifierCV`
 
 
-#### Evaluation metric: multi-class logarithmic loss
-#### Scored: 0.47640 (Top 30%)
+**Evaluation metric:** multi-class logarithmic loss; **Scored:** 0.47640 (Top 30%)
